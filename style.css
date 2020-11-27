@@ -125,6 +125,7 @@ hr {
 }
 
 .ow {
+    padding: 5px;
     background-color: var(--off-white);
 }
 
