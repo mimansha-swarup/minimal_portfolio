@@ -22,6 +22,7 @@ hr {
     margin: 2rem 0rem;
     background-color: var(--border-color);
     height: 1.5px;
+    border: #04d9ff;
 }
 
 .margin-mid {
@@ -153,6 +154,7 @@ hr {
 
 .footer .link {
     color: var(--bg-color);
+    font-size: 2rem;
 }
 
 .footer .footer-header {
